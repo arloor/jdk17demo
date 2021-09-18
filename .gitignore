@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.[oa]
+*.jar
+*.class
+target/
+out/
+.idea/
+*.iml
+krb5.conf
